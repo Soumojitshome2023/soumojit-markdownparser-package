@@ -1,11 +1,23 @@
 {
   "name": "soumojit-markdownparser",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "MarkdownParser",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Soumojit  Shome",
-  "license": "ISC"
+  "author": "Soumojit Shome",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Soumojitshome2023/soumojit-markdownparser-package.git"
+  },
+  "keywords": [
+    "markdownparser",
+    "soumojit"
+  ],
+  "bugs": {
+    "url": "https://github.com/Soumojitshome2023/soumojit-markdownparser-package/issues"
+  },
+  "homepage": "https://github.com/Soumojitshome2023/soumojit-markdownparser-package#readme"
 }
