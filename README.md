@@ -114,3 +114,32 @@ git clone https://github.com/Soumojitshome2023/soumojit-markdownparser-package
 
 
 ---
+
+
+## Developer Details :
+
+### Portfolio : 
+
+Explore Soumojit Shome's portfolio to see his projects and contributions:
+
+[Portfolio Website](https://soumojitshome.vercel.app/)
+
+### GitHub :
+
+Check out Soumojit Shome's GitHub profile to see his open-source projects and contributions:
+
+[GitHub Profile](https://github.com/Soumojitshome2023)
+
+### Blog : 
+
+Read articles and insights from Soumojit Shome on his blog:
+
+[Blog Website](https://soumojitshome-blog-web.vercel.app/)
+
+### LinkedIn : 
+
+Connect with Soumojit Shome on LinkedIn:
+
+[LinkedIn Profile](https://www.linkedin.com/in/soumojit-shome)
+
+---
